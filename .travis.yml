@@ -1,6 +1,7 @@
 language: c
 os: linux
 dist: bionic
+sudo: required
 
 branches:
   only:
@@ -9,19 +10,19 @@ branches:
 addons:
   apt:
     packages:
-      - python cmake flex bison
+      - flex bison
       - graphviz
-      - git
 
 script:
   - cd $TRAVIS_BUILD_DIR
   - git clone https://github.com/doxygen/doxygen.git
   - cd doxygen
+  - 
   - mkdir build
   - cd build
   - cmake -G "Unix Makefiles" ..
   - make
-  - make install
+  - sudo make install
   - cd $TRAVIS_BUILD_DIR
   - git clone https://github.com/ps2dev/ps2sdk
   - cp -Rf docs/ ps2sdk/docs
