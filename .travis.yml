@@ -1,5 +1,6 @@
 language: c
 os: linux
+dist: bionic
 
 branches:
   only:
@@ -24,8 +25,8 @@ script:
 
 deploy:
   provider: pages
-  skip_cleanup: true
-  dist: bionic
+  cleanup: false
+  strategy: git
   local_dir: ps2sdk/docs/html
   token: $GITHUB_TOKEN
   on:
