@@ -1,0 +1,10 @@
+<map id="common/include/netman.h" name="common/include/netman.h">
+<area shape="rect" id="node1" title=" " alt="" coords="352,5,548,32"/>
+<area shape="rect" id="node2" href="$netman_8c.html" title=" " alt="" coords="5,169,177,211"/>
+<area shape="rect" id="node3" href="$rpc__client_8c.html" title=" " alt="" coords="201,169,373,211"/>
+<area shape="rect" id="node4" href="$rpc__server_8c.html" title=" " alt="" coords="397,169,569,211"/>
+<area shape="rect" id="node5" href="$samples_2tcpip__basic_2ps2ip_8c.html" title=" " alt="" coords="488,80,679,121"/>
+<area shape="rect" id="node6" href="$samples_2tcpip__dhcp_2ps2ip_8c.html" title=" " alt="" coords="703,80,893,121"/>
+<area shape="rect" id="node7" href="$src_2ps2ip_8c.html" title=" " alt="" coords="918,80,1073,121"/>
+<area shape="rect" id="node8" href="$netman__rpc_8h.html" title=" " alt="" coords="229,80,413,121"/>
+</map>

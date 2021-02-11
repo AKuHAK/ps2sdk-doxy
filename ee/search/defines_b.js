@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['k0_15386',['k0',['../as__reg__compat_8h.html#a8d58e214b7b5b075466aecc6c0c295ed',1,'as_reg_compat.h']]],
+  ['k1_15387',['k1',['../as__reg__compat_8h.html#aa786777ce0a77f3d766d53dfa93da3d7',1,'as_reg_compat.h']]],
+  ['kbusclk_15388',['kBUSCLK',['../timer_8h.html#a23381d88d068402cd29cc206171ecf99',1,'timer.h']]],
+  ['kbusclkby16_15389',['kBUSCLKBY16',['../timer_8h.html#a4b6515001f5c2e371b4a37bde3eea69f',1,'timer.h']]],
+  ['kbusclkby256_15390',['kBUSCLKBY256',['../timer_8h.html#aeaa768905fb332b2b0a7abad6e5eaf45',1,'timer.h']]],
+  ['khblnk_5fdtv1080i_15391',['kHBLNK_DTV1080i',['../timer_8h.html#aca97df348e9c723de7792c4af1050f63',1,'timer.h']]],
+  ['khblnk_5fdtv480p_15392',['kHBLNK_DTV480p',['../timer_8h.html#a5e76a422daf945e71e6811ef03329cbe',1,'timer.h']]],
+  ['khblnk_5fntsc_15393',['kHBLNK_NTSC',['../timer_8h.html#a6c8cce814a828ee9ad017571f2a3a573',1,'timer.h']]],
+  ['khblnk_5fpal_15394',['kHBLNK_PAL',['../timer_8h.html#a302e9d4ce1793a335dec6629fe2d0284',1,'timer.h']]],
+  ['kintc_5fgs_15395',['kINTC_GS',['../kernel_8h.html#afd6bbdf857603e19cb94eca36429c540',1,'kernel.h']]],
+  ['kintc_5fipu_15396',['kINTC_IPU',['../kernel_8h.html#a6b76ab8d5e64e1d715dda8f1b6dc4e6d',1,'kernel.h']]],
+  ['kintc_5fsbus_15397',['kINTC_SBUS',['../kernel_8h.html#aff34afb0c4b95bac4fe51e4ab24b0ff6',1,'kernel.h']]],
+  ['kintc_5ftimer0_15398',['kINTC_TIMER0',['../kernel_8h.html#ab6ffcb225e45412ea893d5e50e9ab77a',1,'kernel.h']]],
+  ['kintc_5ftimer1_15399',['kINTC_TIMER1',['../kernel_8h.html#a5fe0d9e07660e4ff7555ea04e7c9427c',1,'kernel.h']]],
+  ['kintc_5fvblank_5fend_15400',['kINTC_VBLANK_END',['../kernel_8h.html#a99acbb703d93dd6f2bda824587df3261',1,'kernel.h']]],
+  ['kintc_5fvblank_5fstart_15401',['kINTC_VBLANK_START',['../kernel_8h.html#a049b7c67fae27e3dff7817cee189b466',1,'kernel.h']]],
+  ['kintc_5fvif0_15402',['kINTC_VIF0',['../kernel_8h.html#a49664194c2840b476e2db1b023f9c171',1,'kernel.h']]],
+  ['kintc_5fvif1_15403',['kINTC_VIF1',['../kernel_8h.html#a71fc073d439bec5430460ea12d4ba107',1,'kernel.h']]],
+  ['kintc_5fvu0_15404',['kINTC_VU0',['../kernel_8h.html#a8ef3c25c5beae293d33cbce398f33098',1,'kernel.h']]],
+  ['kintc_5fvu1_15405',['kINTC_VU1',['../kernel_8h.html#a62499ea7c2929177d95786ff55e2dc26',1,'kernel.h']]],
+  ['kprintf_15406',['kprintf',['../tlbfunc_8c.html#aa347d31e544a134bd0dd76ac339619b8',1,'tlbfunc.c']]]
+];

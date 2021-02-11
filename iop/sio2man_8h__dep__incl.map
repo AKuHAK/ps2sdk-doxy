@@ -1,0 +1,25 @@
+<map id="iop/system/sio2man/include/sio2man.h" name="iop/system/sio2man/include/sio2man.h">
+<area shape="rect" id="node1" title=" " alt="" coords="691,5,846,47"/>
+<area shape="rect" id="node2" href="$secrman_8h.html" title=" " alt="" coords="385,95,523,136"/>
+<area shape="rect" id="node10" href="$xsio2man_8h.html" title=" " alt="" coords="1213,95,1351,136"/>
+<area shape="rect" id="node14" href="$padData_8c.html" title=" " alt="" coords="625,184,800,225"/>
+<area shape="rect" id="node22" href="$sio2man__imports_8h.html" title=" " alt="" coords="548,95,731,136"/>
+<area shape="rect" id="node23" href="$log_8h.html" title=" " alt="" coords="1375,95,1530,136"/>
+<area shape="rect" id="node3" href="$memorycard_2mcman_2src_2irx__imports_8h.html" title=" " alt="" coords="212,184,395,225"/>
+<area shape="rect" id="node4" href="$mcman-internal_8h.html" title=" " alt="" coords="419,184,601,225"/>
+<area shape="rect" id="node5" href="$memorycard_2mcman_2src_2main_8c.html" title=" " alt="" coords="5,273,188,315"/>
+<area shape="rect" id="node6" href="$mcdev_8c.html" title=" " alt="" coords="212,273,395,315"/>
+<area shape="rect" id="node7" href="$mcsio2_8c.html" title=" " alt="" coords="419,273,601,315"/>
+<area shape="rect" id="node8" href="$ps1mc__fio_8c.html" title=" " alt="" coords="625,273,808,315"/>
+<area shape="rect" id="node9" href="$ps2mc__fio_8c.html" title=" " alt="" coords="832,273,1015,315"/>
+<area shape="rect" id="node11" href="$freemtap_8c.html" title=" " alt="" coords="824,184,985,225"/>
+<area shape="rect" id="node12" href="$system_2mtapman_2src_2irx__imports_8h.html" title=" " alt="" coords="1009,184,1171,225"/>
+<area shape="rect" id="node13" href="$system_2padman_2src_2irx__imports_8h.html" title=" " alt="" coords="1195,184,1369,225"/>
+<area shape="rect" id="node15" href="$padInit_8c.html" title=" " alt="" coords="1393,184,1568,225"/>
+<area shape="rect" id="node16" href="$padMiscFuncs_8c.html" title=" " alt="" coords="1592,184,1767,225"/>
+<area shape="rect" id="node17" href="$rsio2man_8h.html" title=" " alt="" coords="1791,184,1949,225"/>
+<area shape="rect" id="node20" href="$system_2sio2man_2src_2irx__imports_8h.html" title=" " alt="" coords="1974,184,2129,225"/>
+<area shape="rect" id="node21" href="$sio2man_8c.html" title=" " alt="" coords="2153,184,2307,225"/>
+<area shape="rect" id="node18" href="$system_2rmman_2src_2irx__imports_8h.html" title=" " alt="" coords="1690,273,1858,315"/>
+<area shape="rect" id="node19" href="$rmman_8c.html" title=" " alt="" coords="1882,273,2050,315"/>
+</map>

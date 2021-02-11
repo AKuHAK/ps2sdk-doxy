@@ -1,0 +1,39 @@
+<map id="iop/kernel/include/sifman.h" name="iop/kernel/include/sifman.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3023,5,3161,47"/>
+<area shape="rect" id="node2" href="$cdvd_2cdfs_2src_2irx__imports_8h.html" title=" " alt="" coords="5,95,157,136"/>
+<area shape="rect" id="node3" href="$debug_2iop__sbusdbg_2src_2irx__imports_8h.html" title=" " alt="" coords="181,95,352,136"/>
+<area shape="rect" id="node4" href="$debug_2iopdebug_2src_2irx__imports_8h.html" title=" " alt="" coords="377,95,527,136"/>
+<area shape="rect" id="node5" href="$ioptrap_8c.html" title=" " alt="" coords="551,95,710,136"/>
+<area shape="rect" id="node6" href="$debug_2ioptrap_2src_2irx__imports_8h.html" title=" " alt="" coords="734,95,893,136"/>
+<area shape="rect" id="node7" href="$fakehost_8c.html" title=" " alt="" coords="917,95,1059,136"/>
+<area shape="rect" id="node8" href="$nprintf_8c.html" title=" " alt="" coords="1083,95,1226,136"/>
+<area shape="rect" id="node9" href="$fileXio__iop_8c.html" title=" " alt="" coords="1251,95,1376,136"/>
+<area shape="rect" id="node10" href="$fs_2filexio_2src_2irx__imports_8h.html" title=" " alt="" coords="1400,95,1525,136"/>
+<area shape="rect" id="node11" href="$fs_2http_2src_2irx__imports_8h.html" title=" " alt="" coords="1550,95,1682,136"/>
+<area shape="rect" id="node12" href="$memorycard_2mcserv_2src_2irx__imports_8h.html" title=" " alt="" coords="1707,95,1888,136"/>
+<area shape="rect" id="node13" href="$mcserv_8h.html" title=" " alt="" coords="1912,95,2093,136"/>
+<area shape="rect" id="node15" href="$network_2netman_2src_2irx__imports_8h.html" title=" " alt="" coords="2118,95,2271,136"/>
+<area shape="rect" id="node16" href="$netman_8c.html" title=" " alt="" coords="2295,95,2449,136"/>
+<area shape="rect" id="node17" href="$network_2netman_2src_2rpc__client_8c.html" title=" " alt="" coords="2473,95,2626,136"/>
+<area shape="rect" id="node18" href="$network_2netman_2src_2rpc__server_8c.html" title=" " alt="" coords="2650,95,2803,136"/>
+<area shape="rect" id="node19" href="$network_2smbman_2src_2irx__imports_8h.html" title=" " alt="" coords="2828,95,2988,136"/>
+<area shape="rect" id="node20" href="$smb__fio_8c.html" title=" " alt="" coords="3012,95,3172,136"/>
+<area shape="rect" id="node21" href="$batch_8c.html" title=" " alt="" coords="3197,95,3339,136"/>
+<area shape="rect" id="node22" href="$sound_2libsd_2src_2irx__imports_8h.html" title=" " alt="" coords="3363,95,3506,136"/>
+<area shape="rect" id="node23" href="$voice_8c.html" title=" " alt="" coords="3530,95,3673,136"/>
+<area shape="rect" id="node24" href="$system_2mtapman_2src_2irx__imports_8h.html" title=" " alt="" coords="3697,95,3858,136"/>
+<area shape="rect" id="node25" href="$rpcservers_8c.html" title=" " alt="" coords="3882,95,4043,136"/>
+<area shape="rect" id="node26" href="$system_2padman_2src_2irx__imports_8h.html" title=" " alt="" coords="4067,95,4242,136"/>
+<area shape="rect" id="node27" href="$padData_8c.html" title=" " alt="" coords="4266,95,4441,136"/>
+<area shape="rect" id="node28" href="$padInit_8c.html" title=" " alt="" coords="4465,95,4639,136"/>
+<area shape="rect" id="node29" href="$rpcserver_8c.html" title=" " alt="" coords="4663,95,4838,136"/>
+<area shape="rect" id="node30" href="$system_2rmman_2src_2irx__imports_8h.html" title=" " alt="" coords="4863,95,5031,136"/>
+<area shape="rect" id="node31" href="$rmman_8c.html" title=" " alt="" coords="5055,95,5223,136"/>
+<area shape="rect" id="node32" href="$system_2sbusintr_2src_2irx__imports_8h.html" title=" " alt="" coords="5247,95,5398,136"/>
+<area shape="rect" id="node33" href="$sbusintr_8c.html" title=" " alt="" coords="5422,95,5573,136"/>
+<area shape="rect" id="node34" href="$system_2siftoo_2src_2irx__imports_8h.html" title=" " alt="" coords="5597,95,5755,136"/>
+<area shape="rect" id="node35" href="$siftoo_8c.html" title=" " alt="" coords="5779,95,5938,136"/>
+<area shape="rect" id="node36" href="$tcpip_2tcpips_2src_2irx__imports_8h.html" title=" " alt="" coords="5963,95,6107,136"/>
+<area shape="rect" id="node37" href="$ps2ips_8c.html" title=" " alt="" coords="6131,95,6275,136"/>
+<area shape="rect" id="node14" href="$mcserv_8c.html" title=" " alt="" coords="1912,184,2093,225"/>
+</map>

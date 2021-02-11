@@ -1,0 +1,25 @@
+var dma_2src_2dma_8c =
+[
+    [ "dma_channel_fast_waits", "dma_2src_2dma_8c.html#abd3178c9d5532b18786187a47d356af7", null ],
+    [ "dma_channel_initialize", "dma_2src_2dma_8c.html#a8cc3f845b8d82a2fedb97b6817d37b3b", null ],
+    [ "dma_channel_receive_chain", "dma_2src_2dma_8c.html#aa0f72b3bcb8c0471e15d385834dedbdc", null ],
+    [ "dma_channel_receive_normal", "dma_2src_2dma_8c.html#a749f79ced4d6dccd05314ff39879ad2f", null ],
+    [ "dma_channel_send_chain", "dma_2src_2dma_8c.html#a824b5713ffd4cb99aa97dccc0a5fc52e", null ],
+    [ "dma_channel_send_chain_ucab", "dma_2src_2dma_8c.html#ac750243a97b6ef4d6cfb8f29a7f16a78", null ],
+    [ "dma_channel_send_normal", "dma_2src_2dma_8c.html#a4e44065f3b8078783c223e17f02ad9b5", null ],
+    [ "dma_channel_send_normal_ucab", "dma_2src_2dma_8c.html#adab9444b2873ece359ee8572f798d4aa", null ],
+    [ "dma_channel_send_packet2", "dma_2src_2dma_8c.html#aa91bf2f71a672a49c273bc9927a0c438", null ],
+    [ "dma_channel_shutdown", "dma_2src_2dma_8c.html#ae5599ed5d750cb428cf6716aa11642b7", null ],
+    [ "dma_channel_wait", "dma_2src_2dma_8c.html#a802c1a7b02e29886a85689c32d832b97", null ],
+    [ "dma_reset", "dma_2src_2dma_8c.html#adfdcc7a137c316b3792301a42d8b5981", null ],
+    [ "dma_wait_fast", "dma_2src_2dma_8c.html#a334d29d4c3dcd14de10bb6f51bf9cb8f", null ],
+    [ "dma_asr0", "dma_2src_2dma_8c.html#a80a024ce33f7ec99beeed20613fecb51", null ],
+    [ "dma_asr1", "dma_2src_2dma_8c.html#af4d57af15801a1e906ba48dfa35639d5", null ],
+    [ "dma_channel_initialized", "dma_2src_2dma_8c.html#a319b24561d1b2139dfb649adde58d1c6", null ],
+    [ "dma_chcr", "dma_2src_2dma_8c.html#a190b0de4e2d68242ab4b5ee78cbc0e9c", null ],
+    [ "dma_handler_id", "dma_2src_2dma_8c.html#a3fbfecce0bd8a6390bd11a82c77b5536", null ],
+    [ "dma_madr", "dma_2src_2dma_8c.html#ae39d30ceb8f524f0bc51336e1e52c0ff", null ],
+    [ "dma_qwc", "dma_2src_2dma_8c.html#a9c80c3a041113a8a1211cdc0c6463a97", null ],
+    [ "dma_sadr", "dma_2src_2dma_8c.html#ab42bf3057f367d0cf08d884c89087588", null ],
+    [ "dma_tadr", "dma_2src_2dma_8c.html#aba264591470e9a5a1b3505ad92c6fece", null ]
+];

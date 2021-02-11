@@ -1,0 +1,7 @@
+<map id="usbmass_cmd" name="usbmass_cmd">
+<area shape="rect" id="node1" title=" " alt="" coords="121,184,236,211"/>
+<area shape="rect" id="node2" href="$structmass__dev.html" title=" " alt="" coords="17,95,105,121"/>
+<area shape="rect" id="node3" href="$structscsi__interface.html" title=" " alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node4" href="$structcbw__packet.html" title=" " alt="" coords="129,95,228,121"/>
+<area shape="rect" id="node5" href="$structcsw__packet.html" title=" " alt="" coords="252,95,351,121"/>
+</map>

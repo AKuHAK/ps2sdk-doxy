@@ -1,0 +1,21 @@
+<map id="iop/dev9/hdpro_atad/src/hdproatad.c" name="iop/dev9/hdpro_atad/src/hdproatad.c">
+<area shape="rect" id="node1" title=" " alt="" coords="383,5,538,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="99,169,169,196"/>
+<area shape="rect" id="node3" href="$defs_8h.html" title=" " alt="" coords="5,169,68,196"/>
+<area shape="rect" id="node7" href="$irx_8h.html" title=" " alt="" coords="498,169,549,196"/>
+<area shape="rect" id="node8" href="$loadcore_8h.html" title=" " alt="" coords="415,95,506,121"/>
+<area shape="rect" id="node9" href="$intrman_8h.html" title=" " alt="" coords="581,95,666,121"/>
+<area shape="rect" id="node10" href="$thbase_8h.html" title=" " alt="" coords="204,95,283,121"/>
+<area shape="rect" id="node11" href="$thevent_8h.html" title=" " alt="" coords="307,95,391,121"/>
+<area shape="rect" id="node12" href="$stdio_8h.html" title=" " alt="" coords="690,95,757,121"/>
+<area shape="rect" id="node14" href="$sysclib_8h.html" title=" " alt="" coords="781,95,860,121"/>
+<area shape="rect" id="node16" href="$atad_8h.html" title=" " alt="" coords="117,95,180,121"/>
+<area shape="rect" id="node17" href="$atahw_8h.html" title=" " alt="" coords="861,169,935,196"/>
+<area shape="rect" id="node4" href="$types_8h.html" title=" " alt="" coords="457,244,528,271"/>
+<area shape="rect" id="node5" title=" " alt="" coords="455,319,530,345"/>
+<area shape="rect" id="node6" href="$tamtypes_8h.html" title=" " alt="" coords="773,319,869,345"/>
+<area shape="rect" id="node13" title=" " alt="" coords="659,169,734,196"/>
+<area shape="rect" id="node15" href="$setjmp_8h.html" title=" " alt="" coords="704,244,783,271"/>
+<area shape="rect" id="node18" href="$aifregs_8h.html" title=" " alt="" coords="859,244,937,271"/>
+<area shape="rect" id="node19" href="$speedregs_8h.html" title=" " alt="" coords="962,244,1063,271"/>
+</map>

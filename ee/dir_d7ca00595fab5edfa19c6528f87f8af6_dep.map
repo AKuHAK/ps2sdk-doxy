@@ -1,0 +1,20 @@
+<map id="ee/network/tcpip/samples/tcpip_basic" name="ee/network/tcpip/samples/tcpip_basic">
+<area shape="rect" id="node1" href="dir_d7ca00595fab5edfa19c6528f87f8af6.html" title="tcpip_basic" alt="" coords="141,52,235,100"/>
+<area shape="rect" id="node2" href="dir_3c99d3595cafa99f0e2683197c97edf9.html" title="sbv" alt="" coords="5,148,77,196"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000128_000077.html" title="1" alt="" coords="93,138,102,153"/>
+<area shape="rect" id="node3" href="dir_694ec83a64f58cbdefbefce65cd1011c.html" title="kernel" alt="" coords="79,244,151,292"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000128_000025.html" title="5" alt="" coords="123,220,133,234"/>
+<area shape="rect" id="node4" href="dir_bdd9a5d540de89e9fe90efdfc6973a4f.html" title="common" alt="" coords="149,340,227,388"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000128_000000.html" title="1" alt="" coords="212,320,222,335"/>
+<area shape="rect" id="node5" href="dir_c7a9def6f98954b831c78937abc1a97c.html" title="debug" alt="" coords="152,148,224,196"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000128_000005.html" title="1" alt="" coords="192,122,201,137"/>
+<area shape="rect" id="node6" href="dir_f5863da36fbb72d29e9b1dbcb4acc18d.html" title="include" alt="" coords="299,148,371,196"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000128_000126.html" title="1" alt="" coords="283,124,292,138"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000077_000025.html" title="15" alt="" coords="83,217,100,231"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000077_000000.html" title="9" alt="" coords="130,328,140,342"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000025_000000.html" title="24" alt="" coords="156,313,174,327"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000005_000025.html" title="5" alt="" coords="146,227,156,242"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000005_000000.html" title="7" alt="" coords="192,314,201,329"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000126_000000.html" title="1" alt="" coords="242,329,251,343"/>
+<area shape="rect" id="clust1" href="dir_554b5684344c8662c4c0cc7f2cbf70c3.html" title="samples" alt="" coords="129,16,247,111"/>
+</map>

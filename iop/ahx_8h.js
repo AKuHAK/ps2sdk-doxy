@@ -1,0 +1,26 @@
+var ahx_8h =
+[
+    [ "AHXPListEntry", "structAHXPListEntry.html", "structAHXPListEntry" ],
+    [ "AHXPList", "structAHXPList.html", "structAHXPList" ],
+    [ "AHXEnvelope", "structAHXEnvelope.html", "structAHXEnvelope" ],
+    [ "AHXInstrument", "structAHXInstrument.html", "structAHXInstrument" ],
+    [ "AHXPosition", "structAHXPosition.html", "structAHXPosition" ],
+    [ "AHXStep", "structAHXStep.html", "structAHXStep" ],
+    [ "AHXSong", "structAHXSong.html", "structAHXSong" ],
+    [ "AHXVoice", "structAHXVoice.html", "structAHXVoice" ],
+    [ "AHXWaves", "structAHXWaves.html", "structAHXWaves" ],
+    [ "AHXOutput_MixBuffer", "ahx_8h.html#a00a9a61949fbdc337bd335e7fd14c4d0", null ],
+    [ "AHXPlayer_Init", "ahx_8h.html#aa64fbdc016d37009194a83efe0db60b7", null ],
+    [ "AHXPlayer_InitSubsong", "ahx_8h.html#a8d57ebf90337f507037e6c2c6260cfc4", null ],
+    [ "AHXPlayer_LoadSongBuffer", "ahx_8h.html#a80bd1a9f8fee072b61d244d7e7bff76a", null ],
+    [ "AHXPlayer_NextPosition", "ahx_8h.html#a5d22c12c8377e02e2d6ed8b62455cc17", null ],
+    [ "AHXPlayer_PlayIRQ", "ahx_8h.html#ab16b3e3bf43e935d1ccdb39bf2093440", null ],
+    [ "AHXPlayer_PListCommandParse", "ahx_8h.html#a6ca8c8c0e730114d6df60417580af994", null ],
+    [ "AHXPlayer_PrevPosition", "ahx_8h.html#a9d5bca81000e81997f04c8832ecc4b86", null ],
+    [ "AHXPlayer_ProcessFrame", "ahx_8h.html#a76fa4cc536ea5ff8da1b729f27b492ed", null ],
+    [ "AHXPlayer_ProcessStep", "ahx_8h.html#a3cdfea5e1b928d9c4947d81f72e33973", null ],
+    [ "AHXPlayer_SetAudio", "ahx_8h.html#a4852adb200baef81d5ec93b8ac42b4c8", null ],
+    [ "AHXPlayer_SetBoost", "ahx_8h.html#af6a4973e27b3135e86f24e85176f12fa", null ],
+    [ "AHXPlayer_SetOversampling", "ahx_8h.html#a6b22628d3045a3bd416e5610819a175e", null ],
+    [ "AHXPlayer_VoiceOnOff", "ahx_8h.html#aacd101d150cf07be9fd6d4acc0a74222", null ]
+];

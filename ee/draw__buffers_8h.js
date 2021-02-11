@@ -1,0 +1,28 @@
+var draw__buffers_8h =
+[
+    [ "texinfo_t", "structtexinfo__t.html", "structtexinfo__t" ],
+    [ "framebuffer_t", "structframebuffer__t.html", "structframebuffer__t" ],
+    [ "zbuffer_t", "structzbuffer__t.html", "structzbuffer__t" ],
+    [ "texbuffer_t", "structtexbuffer__t.html", "structtexbuffer__t" ],
+    [ "clutbuffer_t", "structclutbuffer__t.html", "structclutbuffer__t" ],
+    [ "CLUT_COMPARE_CBP0", "draw__buffers_8h.html#a0340961cf7cbb04de6748f30e6da1940", null ],
+    [ "CLUT_COMPARE_CBP1", "draw__buffers_8h.html#ae8ebf395b82dbac4ecb20d8fa94e8e19", null ],
+    [ "CLUT_LOAD", "draw__buffers_8h.html#a09bc8237a7c7b4d1f039c542d995f1dd", null ],
+    [ "CLUT_LOAD_COPY_CBP0", "draw__buffers_8h.html#ae625ba65de6f4b5ed998bbb4147ae2da", null ],
+    [ "CLUT_LOAD_COPY_CBP1", "draw__buffers_8h.html#aa571e4f0a39fec221c0b5da17ae99a2d", null ],
+    [ "CLUT_NO_LOAD", "draw__buffers_8h.html#a4866198ecf2f6b1eac0e38a8698e37ae", null ],
+    [ "CLUT_STORAGE_MODE1", "draw__buffers_8h.html#af2b6b2a5eb74ea0fc366acf85441c6ac", null ],
+    [ "CLUT_STORAGE_MODE2", "draw__buffers_8h.html#ac32bd76b85578ac6941e31ee808ed3f7", null ],
+    [ "TEXTURE_COMPONENTS_RGB", "draw__buffers_8h.html#ae676ebf4e55a3c3939b8493f6f7e04e0", null ],
+    [ "TEXTURE_COMPONENTS_RGBA", "draw__buffers_8h.html#a8f1695d822d08a1def2a4a0634aea1e4", null ],
+    [ "TEXTURE_FUNCTION_DECAL", "draw__buffers_8h.html#ab0cb8bfdbd4e2da33bccf58c095a3757", null ],
+    [ "TEXTURE_FUNCTION_HIGHLIGHT", "draw__buffers_8h.html#a26303efbfa6a57019ae26a10c7ecab8d", null ],
+    [ "TEXTURE_FUNCTION_HIGHLIGHT2", "draw__buffers_8h.html#ac6b27e60559bd483d07f92c59ed32477", null ],
+    [ "TEXTURE_FUNCTION_MODULATE", "draw__buffers_8h.html#ac98a0afae5a86e2083bd4494e9da27aa", null ],
+    [ "draw_clut_offset", "draw__buffers_8h.html#a11504057ca3de096f8a0669c7d41dbf3", null ],
+    [ "draw_clutbuffer", "draw__buffers_8h.html#aa6b48eb818f6c7ae02f0c0106585b24d", null ],
+    [ "draw_framebuffer", "draw__buffers_8h.html#abffb7dc03a19c7b2f1a60205272efb1c", null ],
+    [ "draw_log2", "draw__buffers_8h.html#a03b440248c18b09966e2ddf7e8e641e3", null ],
+    [ "draw_texturebuffer", "draw__buffers_8h.html#a38cac8d202b0990282ee1d02cd77b69f", null ],
+    [ "draw_zbuffer", "draw__buffers_8h.html#a9e20a1e10ca34a6fb9f4dc0334faec6b", null ]
+];

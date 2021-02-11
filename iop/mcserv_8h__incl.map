@@ -1,0 +1,20 @@
+<map id="iop/memorycard/mcserv/src/mcserv.h" name="iop/memorycard/mcserv/src/mcserv.h">
+<area shape="rect" id="node1" title=" " alt="" coords="381,5,562,47"/>
+<area shape="rect" id="node2" href="$loadcore_8h.html" title=" " alt="" coords="314,95,405,121"/>
+<area shape="rect" id="node7" href="$intrman_8h.html" title=" " alt="" coords="429,95,514,121"/>
+<area shape="rect" id="node8" href="$sysclib_8h.html" title=" " alt="" coords="629,95,708,121"/>
+<area shape="rect" id="node11" href="$sifman_8h.html" title=" " alt="" coords="5,95,84,121"/>
+<area shape="rect" id="node12" href="$sifcmd_8h.html" title=" " alt="" coords="108,95,187,121"/>
+<area shape="rect" id="node13" href="$thbase_8h.html" title=" " alt="" coords="211,95,289,121"/>
+<area shape="rect" id="node14" href="$stdio_8h.html" title=" " alt="" coords="538,95,605,121"/>
+<area shape="rect" id="node15" href="$mcman_8h.html" title=" " alt="" coords="897,95,979,121"/>
+<area shape="rect" id="node18" href="$mcman__imports_8h.html" title=" " alt="" coords="732,95,872,121"/>
+<area shape="rect" id="node3" href="$types_8h.html" title=" " alt="" coords="349,244,420,271"/>
+<area shape="rect" id="node6" href="$irx_8h.html" title=" " alt="" coords="390,169,441,196"/>
+<area shape="rect" id="node4" title=" " alt="" coords="347,319,422,345"/>
+<area shape="rect" id="node5" href="$tamtypes_8h.html" title=" " alt="" coords="649,319,745,345"/>
+<area shape="rect" id="node9" title=" " alt="" coords="534,169,609,196"/>
+<area shape="rect" id="node10" href="$setjmp_8h.html" title=" " alt="" coords="657,244,736,271"/>
+<area shape="rect" id="node16" title=" " alt="" coords="783,169,853,196"/>
+<area shape="rect" id="node17" href="$libmc-common_8h.html" title=" " alt="" coords="800,244,932,271"/>
+</map>

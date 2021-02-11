@@ -1,0 +1,26 @@
+var vux_8c =
+[
+    [ "VuInit", "vux_8c.html#af3f027305010530afffa2682046efb39", null ],
+    [ "VuSetAmbientLight", "vux_8c.html#ab9d6531ba40fbde8a8511cca5ad7541d", null ],
+    [ "VuSetGeometryXYOffset", "vux_8c.html#a1d5c909b95adf5258e74d0f533e8747d", null ],
+    [ "VuSetLocalScreenMatrix", "vux_8c.html#af0084619cac4b3ef01c4c45769d37832", null ],
+    [ "VuSetProjection", "vux_8c.html#a6cf5574ff68849a405a8a683a8235f5d", null ],
+    [ "VuSetProjectionMatrix", "vux_8c.html#a22f2f385203745f1d441cf798faa2d71", null ],
+    [ "VuSetProjectionNearPlaneWH", "vux_8c.html#a1d72886ec79120ed6b67a02597df4631", null ],
+    [ "VuSetProjectionType", "vux_8c.html#a6e39015705dcde5d83554c0396d663a7", null ],
+    [ "VuSetViewMatrix", "vux_8c.html#a28eabb6852611f4d2e98845096ca1c96", null ],
+    [ "VuSetWorldMatrix", "vux_8c.html#a1f1d7801a68b16b4e8dcef780c971e47", null ],
+    [ "vu_fog_far", "vux_8c.html#a115aa788d79ccface22f884a13de266a", null ],
+    [ "vu_fog_near", "vux_8c.html#a45174e1de770e944d3df966ab457a196", null ],
+    [ "vu_light_ambient", "vux_8c.html#a0b6619f521cc934a02d05eac330d4e03", null ],
+    [ "vu_near_plane_h", "vux_8c.html#aa77f700eccc46942c6889620e1e889c1", null ],
+    [ "vu_near_plane_w", "vux_8c.html#ae636b33951260403cff06283607a5fce", null ],
+    [ "vu_offset_x", "vux_8c.html#a416898e89af358f9c6b55e5737794b1a", null ],
+    [ "vu_offset_y", "vux_8c.html#a6927697ea35d2ca08eea2ec851bd2e99", null ],
+    [ "vu_projection", "vux_8c.html#ad09fe9ff061ca3d0916cf173ffb2df04", null ],
+    [ "vu_projection_type", "vux_8c.html#ab3669fdc22873d7e80626d51ceb6105d", null ],
+    [ "VuLocalScreenMatrix", "vux_8c.html#a00ba242b5da9741cb82c2c3f4111f2fd", null ],
+    [ "VuPrjectionMatrix", "vux_8c.html#adb7402a45acb2d4510656d86bd419a3e", null ],
+    [ "VuViewMatrix", "vux_8c.html#aa15436b6354a32a7951f902270de3992", null ],
+    [ "VuWorldMatrix", "vux_8c.html#a615527d1c72cbb20eac9981467f10633", null ]
+];

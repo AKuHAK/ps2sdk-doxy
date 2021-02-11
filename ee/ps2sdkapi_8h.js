@@ -1,0 +1,26 @@
+var ps2sdkapi_8h =
+[
+    [ "PS2_CLOCKS_PER_MSEC", "ps2sdkapi_8h.html#a539a1609e689cf65b4ff56cbc966b209", null ],
+    [ "PS2_CLOCKS_PER_SEC", "ps2sdkapi_8h.html#a6259bfe007aa0f422f53b015a6814873", null ],
+    [ "off64_t", "ps2sdkapi_8h.html#a8b212198edc1aac8363476aeba0f81cc", null ],
+    [ "ps2_clock_t", "ps2sdkapi_8h.html#a312b65f044a1753bc5b0172f5c7b7d5c", null ],
+    [ "_ps2sdk_timezone_update", "ps2sdkapi_8h.html#a1810b38e0837b704d2dba31c042e5918", null ],
+    [ "lseek64", "ps2sdkapi_8h.html#a80fbb49a506d5ebb2869beee8c4933e2", null ],
+    [ "ps2_clock", "ps2sdkapi_8h.html#ae3c05d3ee2222897f52f33aa8e2fb807", null ],
+    [ "_ps2sdk_close", "ps2sdkapi_8h.html#a65a2aa622c3733ed007ae80da512c0ff", null ],
+    [ "_ps2sdk_closedir", "ps2sdkapi_8h.html#a3fded2faf44675acef0d967f223d685f", null ],
+    [ "_ps2sdk_ioctl", "ps2sdkapi_8h.html#a97a84bd3abc997eab6d0d2e27e2a2090", null ],
+    [ "_ps2sdk_lseek", "ps2sdkapi_8h.html#a4432eb0dbcde4197e610d1423a32405d", null ],
+    [ "_ps2sdk_lseek64", "ps2sdkapi_8h.html#a2b7b9a62884c095be92c1fa05e1dfef1", null ],
+    [ "_ps2sdk_mkdir", "ps2sdkapi_8h.html#aedcb11820bb78f1e6ea4cb748bad6c42", null ],
+    [ "_ps2sdk_open", "ps2sdkapi_8h.html#af9cfd36106acabaa9b32f843cabe45d3", null ],
+    [ "_ps2sdk_opendir", "ps2sdkapi_8h.html#a01d18b8770b45d47d3bc035c2ac85e83", null ],
+    [ "_ps2sdk_read", "ps2sdkapi_8h.html#aecbf90ccb8616e777524d853f4398d8f", null ],
+    [ "_ps2sdk_readdir", "ps2sdkapi_8h.html#ae944ba3b4daa394e1bc5ad79eb0de654", null ],
+    [ "_ps2sdk_remove", "ps2sdkapi_8h.html#aa399e8558b0dbb7ae255f2f4e6c37be8", null ],
+    [ "_ps2sdk_rename", "ps2sdkapi_8h.html#abf90ee26a52e5fc65fbd7a3b1dabb7e6", null ],
+    [ "_ps2sdk_rewinddir", "ps2sdkapi_8h.html#a11487d11891f7d58ec11e9f137715c28", null ],
+    [ "_ps2sdk_rmdir", "ps2sdkapi_8h.html#af60f7bf932e95fbf4ac9580a30230a2b", null ],
+    [ "_ps2sdk_stat", "ps2sdkapi_8h.html#a026340faa463837648ca094a53dc2a88", null ],
+    [ "_ps2sdk_write", "ps2sdkapi_8h.html#a5adce5fb4a227f5036ddca7443b8c834", null ]
+];

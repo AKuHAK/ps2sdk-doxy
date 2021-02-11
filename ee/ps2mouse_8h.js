@@ -1,0 +1,28 @@
+var ps2mouse_8h =
+[
+    [ "mouse_data", "structmouse__data.html", "structmouse__data" ],
+    [ "PS2MOUSE_BIND_RPC_ID", "ps2mouse_8h.html#a33b4bf8cb6104e580412d8b3be93e5fd", null ],
+    [ "PS2MOUSE_BTN1", "ps2mouse_8h.html#a1fc38e7f993f81c3641a8dc30501449e", null ],
+    [ "PS2MOUSE_BTN1DBL", "ps2mouse_8h.html#ab042eb967f297027bb41f4927161faec", null ],
+    [ "PS2MOUSE_BTN2", "ps2mouse_8h.html#ab45beff56f59079b9fcb986c7f5baeb5", null ],
+    [ "PS2MOUSE_BTN2DBL", "ps2mouse_8h.html#a828bdf72f1f644e9ff40849bb28a2153", null ],
+    [ "PS2MOUSE_BTN3", "ps2mouse_8h.html#af8861d8ceed6d5852483c72a2f9ab40a", null ],
+    [ "PS2MOUSE_BTN3DBL", "ps2mouse_8h.html#aa198a997168be4ca544c0e427125d2a5", null ],
+    [ "PS2MOUSE_ENUM", "ps2mouse_8h.html#a49a733dd21f558544b4d8f4c1a258a0f", null ],
+    [ "PS2MOUSE_GETACCEL", "ps2mouse_8h.html#a25c22d0166cff578c2b34fe4e7aedda0", null ],
+    [ "PS2MOUSE_GETBOUNDARY", "ps2mouse_8h.html#a79193dcb253ce83829d1a9b5877a40ff", null ],
+    [ "PS2MOUSE_GETDBLCLICKTIME", "ps2mouse_8h.html#a96ea5f10cb04f9a7f7357931c80e3c25", null ],
+    [ "PS2MOUSE_GETREADMODE", "ps2mouse_8h.html#a02b26b5a244503cbac91141e5f53759f", null ],
+    [ "PS2MOUSE_GETTHRES", "ps2mouse_8h.html#aa06605db42e502f6cb65fc078933ed68", null ],
+    [ "PS2MOUSE_GETVERSION", "ps2mouse_8h.html#a86406125430db17b546504c78280f96e", null ],
+    [ "PS2MOUSE_READ", "ps2mouse_8h.html#a359a59778dc58fd13ba0f808e397cecf", null ],
+    [ "PS2MOUSE_READMODE_ABS", "ps2mouse_8h.html#a0e5c7e2f0ce1c89ce11d760855b1f9a8", null ],
+    [ "PS2MOUSE_READMODE_DIFF", "ps2mouse_8h.html#a9b524eec841d3f37402f64820d2686ce", null ],
+    [ "PS2MOUSE_RESET", "ps2mouse_8h.html#aab0a684fcb8b2c7f8378993ea12f0b64", null ],
+    [ "PS2MOUSE_SETACCEL", "ps2mouse_8h.html#a1b3b4b77ec0bd938280bd8891ca3ca06", null ],
+    [ "PS2MOUSE_SETBOUNDARY", "ps2mouse_8h.html#a0c9b45d72c88c616f5b521edb792a972", null ],
+    [ "PS2MOUSE_SETDBLCLICKTIME", "ps2mouse_8h.html#a323804bc6212f77d0f93898f6525cb6c", null ],
+    [ "PS2MOUSE_SETPOSITION", "ps2mouse_8h.html#a471f48752fcbd61690cb21ac49ca5b14", null ],
+    [ "PS2MOUSE_SETREADMODE", "ps2mouse_8h.html#a21857b79c075a2cf88b8dc11071557da", null ],
+    [ "PS2MOUSE_SETTHRES", "ps2mouse_8h.html#a896f938a79d31b7eaadd8fc6e4b116a2", null ]
+];

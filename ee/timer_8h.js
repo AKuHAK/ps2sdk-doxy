@@ -1,0 +1,26 @@
+var timer_8h =
+[
+    [ "kBUSCLK", "timer_8h.html#a23381d88d068402cd29cc206171ecf99", null ],
+    [ "kBUSCLKBY16", "timer_8h.html#a4b6515001f5c2e371b4a37bde3eea69f", null ],
+    [ "kBUSCLKBY256", "timer_8h.html#aeaa768905fb332b2b0a7abad6e5eaf45", null ],
+    [ "kHBLNK_DTV1080i", "timer_8h.html#aca97df348e9c723de7792c4af1050f63", null ],
+    [ "kHBLNK_DTV480p", "timer_8h.html#a5e76a422daf945e71e6811ef03329cbe", null ],
+    [ "kHBLNK_NTSC", "timer_8h.html#a6c8cce814a828ee9ad017571f2a3a573", null ],
+    [ "kHBLNK_PAL", "timer_8h.html#a302e9d4ce1793a335dec6629fe2d0284", null ],
+    [ "T0_COMP", "timer_8h.html#ac70afae3511424ed55eba259022f4a92", null ],
+    [ "T0_COUNT", "timer_8h.html#ac1ea69488627b3effecf7a71fa539fc5", null ],
+    [ "T0_HOLD", "timer_8h.html#ab2c973aba9175bc9905e374c19d01d25", null ],
+    [ "T0_MODE", "timer_8h.html#a75ed7bbcfad8394290c60bd8275b183d", null ],
+    [ "T1_COMP", "timer_8h.html#a67bb61be35f45c4ea890921ffc2e71a8", null ],
+    [ "T1_COUNT", "timer_8h.html#a2af81def3304cbcdcd38221bf503ff56", null ],
+    [ "T1_HOLD", "timer_8h.html#acd038ed9f711f4376404d438836c0e73", null ],
+    [ "T1_MODE", "timer_8h.html#a49b2b3ee05a5ed1af75051a594e4fcba", null ],
+    [ "T2_COMP", "timer_8h.html#a9563d07e4abdabcf7fa29dd8f1bb046c", null ],
+    [ "T2_COUNT", "timer_8h.html#a03159a5a179d1f997653917ea8fddf02", null ],
+    [ "T2_MODE", "timer_8h.html#a0307fe8330652aeb6a815730d314b5c9", null ],
+    [ "T3_COMP", "timer_8h.html#ae6a3e57336d3736cb724f2edfc86d43a", null ],
+    [ "T3_COUNT", "timer_8h.html#a1c54e0239f61ba40a8a210ed10309e61", null ],
+    [ "T3_MODE", "timer_8h.html#a29a7fa9760866fa0a56535ab50a2a077", null ],
+    [ "Tn_MODE", "timer_8h.html#afa0adb71250f719bee7eea92c092a8fa", null ],
+    [ "cpu_ticks", "timer_8h.html#a19647a6ab3addaef0dddee3c1c81cb86", null ]
+];

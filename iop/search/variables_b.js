@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['k0_16001',['k0',['../structEE__RegFrame.html#a35f9f83020b99371a82714c06c81e8ed',1,'EE_RegFrame::k0()'],['../structIOP__RegFrame.html#aafa329621a2b09522567fbc6001c956f',1,'IOP_RegFrame::k0()']]],
+  ['k1_16002',['k1',['../structIOP__RegFrame.html#a59bf0849c06c3bb5849d5017c6165353',1,'IOP_RegFrame::k1()'],['../structEE__RegFrame.html#a2bc2cfcf1b4f82f051251676af2419d3',1,'EE_RegFrame::k1()']]],
+  ['kbd_5fblocking_16003',['kbd_blocking',['../ps2kbd_8c.html#acb7537a6da92a6c527dc4f23cfdb9f98',1,'ps2kbd.c']]],
+  ['kbd_5fdriver_16004',['kbd_driver',['../ps2kbd_8c.html#a58af09437357fd62aec0b081f27f8ef8',1,'ps2kbd.c']]],
+  ['kbd_5ffiledrv_16005',['kbd_filedrv',['../ps2kbd_8c.html#afb31450c46ddba05329aab0568f9d027',1,'ps2kbd.c']]],
+  ['kbd_5freadmode_16006',['kbd_readmode',['../ps2kbd_8c.html#a4c4fa498c71383984bfe01093f5b9d43',1,'ps2kbd.c']]],
+  ['kbd_5frepeatrate_16007',['kbd_repeatrate',['../ps2kbd_8c.html#afcbbe6d7f75e09c903c517efdcbfa09a',1,'ps2kbd.c']]],
+  ['keepalive_5finited_16008',['keepalive_inited',['../smb__fio_8c.html#a835d75dc6a312836b0b88c94e2577b21',1,'smb_fio.c']]],
+  ['keepalive_5flocked_16009',['keepalive_locked',['../smb__fio_8c.html#a2a5efee463caab27de456d9eeedccc50',1,'smb_fio.c']]],
+  ['keepalive_5fmutex_16010',['keepalive_mutex',['../smb__fio_8c.html#a735fc0e0417b78eb4ba43f03a58c6fb7',1,'smb_fio.c']]],
+  ['keepalive_5fsysclock_16011',['keepalive_sysclock',['../smb__fio_8c.html#a020d9113e6f7b09d3005c7d7fb864836',1,'smb_fio.c']]],
+  ['keepalive_5ftid_16012',['keepalive_tid',['../smb__fio_8c.html#a3e09df6df7188dc539eb0640e5cda85c',1,'smb_fio.c']]],
+  ['kelf_5fheader_5fsize_16013',['KELF_header_size',['../structSecrKELFHeader__t.html#ac97b874ca11fc52cdcff925e9152dac1',1,'SecrKELFHeader_t']]],
+  ['kernelclocks_16014',['kernelClocks',['../structiop__sys__status__t.html#ad0c4fdc59fb08bf2bb0a41d32ccbea60',1,'iop_sys_status_t']]],
+  ['key_16015',['key',['../structpfs__ioctl2attr__t.html#a6ca887b09843fbb94499c618a65d12ae',1,'pfs_ioctl2attr_t::key()'],['../structkbd__rawkey.html#a82476317fe6cfc1ea2e2e5a686dc09fa',1,'kbd_rawkey::key()']]],
+  ['keycap_16016',['keycap',['../structkbd__keymap.html#aaa158c4a9cc3947df4b07abee9b7b42f',1,'kbd_keymap::keycap()'],['../ps2kbd_8c.html#a363bc27baccb3381e4184d75176e8688',1,'keycap():&#160;ps2kbd.c']]],
+  ['keycodes_16017',['keycodes',['../structkbd__data__recv.html#a632f5b5d1a95f62b4d65d119449ba82f',1,'kbd_data_recv']]],
+  ['keylength_16018',['KeyLength',['../structNegotiateProtocolResponse__t.html#a70f758baf317cc506bf9befe4dc239cc',1,'NegotiateProtocolResponse_t']]],
+  ['keymap_16019',['keymap',['../structkbd__keymap.html#a1a8753c0a8a9f5f51cd4e3fe5d9a9b63',1,'kbd_keymap::keymap()'],['../ps2kbd_8c.html#a2ed0c6dca8a3ff3e79b0c215d2252892',1,'keymap():&#160;ps2kbd.c']]],
+  ['keymodvalue_16020',['keyModValue',['../ps2kbd_8c.html#a3a96a648f738ee929bbae3801f76843c',1,'ps2kbd.c']]],
+  ['klen_16021',['kLen',['../structpfs__aentry__t.html#a146b16640156dc99e519a0153e581554',1,'pfs_aentry_t']]],
+  ['kprint_5fbuffer_16022',['kprint_buffer',['../sbus__tty_8c.html#a1797bf9d4ba4b57950c7077b564c39ce',1,'sbus_tty.c']]]
+];

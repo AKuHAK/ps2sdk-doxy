@@ -1,0 +1,35 @@
+var fileio_8c =
+[
+    [ "_fio_read_data", "struct__fio__read__data.html", "struct__fio__read__data" ],
+    [ "D", "fileio_8c.html#abc37697db3490341a109fd46eb146df4", null ],
+    [ "NEWLIB_PORT_AWARE", "fileio_8c.html#a7521e2f154e0ee623c7ad03f7ca72c98", null ],
+    [ "_fio_functions", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71d", [
+      [ "FIO_F_OPEN", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71da202fd9aed24881190374bb8bc29008e9", null ],
+      [ "FIO_F_CLOSE", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71da2800fb8fe822fbb61b62fa735e471d6d", null ],
+      [ "FIO_F_READ", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71da40298807d55cdb61047b6d5aa13187ab", null ],
+      [ "FIO_F_WRITE", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71da5945753543b9e100d3a0ec63643209b1", null ],
+      [ "FIO_F_LSEEK", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71da24d01ba96d58cd3bb4248cce558a58c3", null ],
+      [ "FIO_F_IOCTL", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71daf94ddb5bdeec29dc1769b22641d162e5", null ],
+      [ "FIO_F_REMOVE", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71dabf0ed04845eac05869e66c82b523221f", null ],
+      [ "FIO_F_MKDIR", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71da3c4d43aa690acc5a56e9d77a126e6dce", null ],
+      [ "FIO_F_RMDIR", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71da61cb802e71746751c93799e9336bb05c", null ],
+      [ "FIO_F_DOPEN", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71da938727e27dc032504a7ce3fd64cf4fa8", null ],
+      [ "FIO_F_DCLOSE", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71dae372cfe51dd72b9e620b76ddbf6757d5", null ],
+      [ "FIO_F_DREAD", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71da2e6bdb05be7fe4e70ed4694fec3d9c22", null ],
+      [ "FIO_F_GETSTAT", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71dab13415d35bd20728fe83645b2ff3c9df", null ],
+      [ "FIO_F_CHSTAT", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71da996f0577dc084229e4fa02daefbf79b4", null ],
+      [ "FIO_F_FORMAT", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71da12149f6fa2f4125fcc35345088b0625f", null ],
+      [ "FIO_F_ADDDRV", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71da5503e1e9437cf2f9420ebeaa66aefffb", null ],
+      [ "FIO_F_DELDRV", "fileio_8c.html#aba325c99422c89e65bdbf0d8fab2b71dadaa9891c2bfc748a2605c93dc942b852", null ]
+    ] ],
+    [ "_fio_intr", "fileio_8c.html#a3301bd1dc5310fdfce972d0e2f8eb77f", null ],
+    [ "_fio_read_intr", "fileio_8c.html#a3d4dadc1c6f0cc0b63fbfb11f9f241d9", null ],
+    [ "_fio_block_mode", "fileio_8c.html#af81cee8f8bc5b543ed4f0004dabb987f", null ],
+    [ "_fio_cd", "fileio_8c.html#aa5c4c34b974bdcfffc0f5a2b1643b915", null ],
+    [ "_fio_completion_sema", "fileio_8c.html#a7ca3d4733d743730b7fc78252ef304f3", null ],
+    [ "_fio_init", "fileio_8c.html#a3ef64c090eb84b476177cb5947f9152d", null ],
+    [ "_fio_intr_data", "fileio_8c.html#af7d715a0d812f423799091b16cee46f6", null ],
+    [ "_fio_io_sema", "fileio_8c.html#aacf67cdf3ef9211a26297fd73af66352", null ],
+    [ "_fio_recv_data", "fileio_8c.html#a64edb1d2d5220d5f023e85ba947ac695", null ],
+    [ "_iop_reboot_count", "fileio_8c.html#a77c25229ad9940408f516870b9059c56", null ]
+];

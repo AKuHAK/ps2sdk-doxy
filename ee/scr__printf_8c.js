@@ -1,0 +1,26 @@
+var scr__printf_8c =
+[
+    [ "t_setupscr", "structt__setupscr.html", "structt__setupscr" ],
+    [ "t_setupchar", "structt__setupchar.html", "structt__setupchar" ],
+    [ "clear_line", "scr__printf_8c.html#a606a3b6d0ecb76ed7b1afad8d734dfa6", null ],
+    [ "debug_detect_signal", "scr__printf_8c.html#adce4af04d171b5c316a30d57975d4c08", null ],
+    [ "Dma02Wait", "scr__printf_8c.html#ae257fb2cef67a9c58d13f7af68a478cf", null ],
+    [ "DmaReset", "scr__printf_8c.html#ae19437030e58696ec3d18ec1ee05d787", null ],
+    [ "Init_GS", "scr__printf_8c.html#a2e1e5fafdcade8719854cdf0d2cc193d", null ],
+    [ "init_scr", "scr__printf_8c.html#a40a3b739851b172d3b73066687bf6422", null ],
+    [ "progdma", "scr__printf_8c.html#aa6d5ee0ca73c121598045b77971968ec", null ],
+    [ "scr_clear", "scr__printf_8c.html#acc68657f973d40f09f46c931db55a350", null ],
+    [ "scr_getX", "scr__printf_8c.html#a527b036024c17ab908f30fab1cb0d018", null ],
+    [ "scr_getY", "scr__printf_8c.html#aa0944710d21989ad2d18953f5dcb2cec", null ],
+    [ "scr_printf", "scr__printf_8c.html#abd37cd417d896ae149b1b38fbd7543af", null ],
+    [ "scr_putchar", "scr__printf_8c.html#ad107569374b350be017113786686966a", null ],
+    [ "scr_setbgcolor", "scr__printf_8c.html#aaa7c1e4e47ad54b0bd5c97f1d6e57de5", null ],
+    [ "scr_setXY", "scr__printf_8c.html#a6f58365b391e19111b66566423c2b8bc", null ],
+    [ "SetVideoMode", "scr__printf_8c.html#a921e672b9268fb7548b149bdc3d173bd", null ],
+    [ "bgcolor", "scr__printf_8c.html#af049fa9ef673d32b6b65d6ba1ae12e87", null ],
+    [ "msx", "scr__printf_8c.html#afd6d8db70c0aefa39fc4dea1108e309b", null ],
+    [ "MX", "scr__printf_8c.html#ad5d44d915ce47ec485d1e60c737db0af", null ],
+    [ "MY", "scr__printf_8c.html#a7e098c2d6ea1365ef72b3cd6b9f469ef", null ],
+    [ "X", "scr__printf_8c.html#a53aa967ed94949b83f8c440378aabfc2", null ],
+    [ "Y", "scr__printf_8c.html#a7f06464c4142dfb5b1a52561fe08d23f", null ]
+];

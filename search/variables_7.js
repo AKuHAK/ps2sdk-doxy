@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['g_5999',['g',['.././ee/unioncolor__t.html#a0cb2d96197c07999e9ce399cbeb516bd',1,'color_t::g()'],['.././ee/structGS__BGCOLOR.html#aa030de677eaee82d4bbac5c28bae08b2',1,'GS_BGCOLOR::g()'],['.././ee/structGS__FOGCOLOR.html#a9b0fdccac08ee748dd86e26716dfef41',1,'GS_FOGCOLOR::g()'],['.././ee/structGS__RGBAQ.html#a73656ce3611f388ab591f0133adbf08f',1,'GS_RGBAQ::g()'],['.././ee/structVU__CVECTOR.html#a278577f9b3091a7649ac849cc57c674d',1,'VU_CVECTOR::g()'],['.././ee/structVU__FCVECTOR.html#a385011eeb3fcbb27f64f92739f179629',1,'VU_FCVECTOR::g()'],['.././ee/unioncolor__f__t.html#a254dc59411011485ec16ff0d60cb4f00',1,'color_f_t::g()']]],
+  ['gcont_6000',['gcont',['.././ee/structGS__SMODE1.html#a008db84009a48adc7d01a7d090511b2d',1,'GS_SMODE1']]],
+  ['generationnumber_6001',['GenerationNumber',['.././iop/structTransactionContextData.html#a1a197c077f486606343fb1127a5c2198',1,'TransactionContextData']]],
+  ['get_5fmax_5flun_6002',['get_max_lun',['.././iop/structscsi__interface.html#ad64f56424939b08aa87cc9df7138fecc',1,'scsi_interface']]],
+  ['getfsize_6003',['getfsize',['.././iop/structLDfilefunc.html#abe8634e9fe5d25972982b0b4f71dcfd7',1,'LDfilefunc']]],
+  ['getportctrl1_6004',['getportctrl1',['.././iop/structsio2Cmds__t.html#ae4c9340107feeec2a46654e1fc17d52c',1,'sio2Cmds_t']]],
+  ['getportctrl2_6005',['getportctrl2',['.././iop/structsio2Cmds__t.html#ad90d57946366305e762e3562c9e6cd13',1,'sio2Cmds_t']]],
+  ['getsize_6006',['getSize',['.././iop/structpfs__block__device__t.html#a49425e3e48b6489b40d9fd529d4cd8f4',1,'pfs_block_device_t']]],
+  ['getstat_6007',['getstat',['.././iop/structiop__device__ops__t.html#a642cf2639ca8bd3e77408de817eead2e',1,'iop_device_ops_t']]],
+  ['getsubnumber_6008',['getSubNumber',['.././iop/structpfs__block__device__t.html#a59bf7ee6e85d6fb5cbd7edcb3f746bd1',1,'pfs_block_device_t']]],
+  ['gid_6009',['gid',['.././iop/structpfs__inode__t.html#a279c99f13cc76afbca6ef47e575c5bb0',1,'pfs_inode_t']]],
+  ['gp_6010',['gp',['.././ee/structalarm.html#a8cb052b5eaa3ea72fed172c4b0be23d1',1,'alarm::gp()'],['.././iop/structsceUsbdLddOps.html#aa8bb124dbffdc5a82e0051148c62f4f5',1,'sceUsbdLddOps::gp()'],['.././iop/structModuleInfo__t.html#a791b1eb54fdd457caa97823087080602',1,'ModuleInfo_t::gp()'],['.././ee/structt__ExecData.html#acb39548db2c0f21ccdc1a44baca75285',1,'t_ExecData::gp()'],['.././ee/structsmod__mod__info__t.html#a64a2dd313184ad3160a88336d27d95a4',1,'smod_mod_info_t::gp()'],['.././ee/structIOP__RegFrame.html#ab56a8f1861529ee0af0609f27a7f10a4',1,'IOP_RegFrame::gp()'],['.././ee/structEE__RegFrame.html#a8b226a2844fb8f68b9e43610a46cb016',1,'EE_RegFrame::gp()']]],
+  ['gp_5freg_6011',['gp_reg',['.././ee/structee__thread__status__t.html#a637d8f8ec0930691c5de9616420f1f0a',1,'ee_thread_status_t::gp_reg()'],['.././ee/structee__thread__t.html#a0032241c14e269cb1fb63ded9d6b5f14',1,'ee_thread_t::gp_reg()']]],
+  ['gp_5fvalue_6012',['gp_value',['.././iop/structModuleStatus.html#a50a0ad17d2a76e709cd21a970dd5ecd2',1,'ModuleStatus']]],
+  ['gpreg_6013',['gpReg',['.././ee/structTCB.html#a1a5df509169e68ba6b3dfbebd41a756a',1,'TCB::gpReg()'],['.././iop/structiop__thread__info__t.html#a0a5d71978ccb3901e7ec7f8aa9dace4f',1,'iop_thread_info_t::gpReg()']]],
+  ['gpseg_6014',['gpSeg',['.././iop/structIoRequest.html#a91c3192773114ab1cf31ee6df2dd4e8c',1,'IoRequest']]],
+  ['grantedaccess_6015',['GrantedAccess',['.././iop/structOpenAndXResponse__t.html#ab5dd04bb7a6389fbe50025350f674037',1,'OpenAndXResponse_t']]],
+  ['gs_5fid_6016',['gs_id',['.././ee/structGS__CSR.html#acbe531f4f7391db2eaa362068e66449b',1,'GS_CSR']]],
+  ['gs_5frev_5fnumber_6017',['gs_rev_number',['.././ee/structGS__CSR.html#a1590c5299bc714f0f8078e19b78ce34b',1,'GS_CSR']]],
+  ['gw_6018',['gw',['.././ee/structnetif.html#a20ca06d28e87723cd9d035942e38e849',1,'netif::gw()'],['.././ee/structt__ip__info.html#a52c6617d71f207d7843cd6a920c9a1ed',1,'t_ip_info::gw()']]]
+];

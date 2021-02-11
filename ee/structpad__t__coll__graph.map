@@ -1,0 +1,5 @@
+<map id="pad_t" name="pad_t">
+<area shape="rect" id="node1" title=" " alt="" coords="108,95,167,121"/>
+<area shape="rect" id="node2" href="$structpadButtonStatus.html" title=" " alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node3" href="$structactuator__t.html" title=" " alt="" coords="160,5,248,32"/>
+</map>

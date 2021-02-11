@@ -1,0 +1,27 @@
+var math3d_8c =
+[
+    [ "calculate_colours", "math3d_8c.html#ae11f801e3398445cd0e7816d66ef7f34", null ],
+    [ "calculate_lights", "math3d_8c.html#ab7c4c3458b605e4fb95a790bf380cbb7", null ],
+    [ "calculate_normals", "math3d_8c.html#ac5bd68d553700c46429008b4201efbc8", null ],
+    [ "calculate_vertices", "math3d_8c.html#a81a7c42c6c11f2102b4a36a6e8fb5f9a", null ],
+    [ "create_local_light", "math3d_8c.html#afa76b2f2a993184458ebdab49f24fba4", null ],
+    [ "create_local_screen", "math3d_8c.html#a1ea876abd9507e0ced9a200e72d0f8c6", null ],
+    [ "create_local_world", "math3d_8c.html#a5ccf6ff15bdc27d98e9865b3a8420e7f", null ],
+    [ "create_view_screen", "math3d_8c.html#abbc842cde93761950a494060214ad0aa", null ],
+    [ "create_world_view", "math3d_8c.html#a9c2ccff6beadb8d8fdd93aa76c14aa76", null ],
+    [ "matrix_copy", "math3d_8c.html#a5f327700785bdd3a0ce86734da63970b", null ],
+    [ "matrix_inverse", "math3d_8c.html#a7a56f14645ea5c2e8cdad069472eb3a8", null ],
+    [ "matrix_multiply", "math3d_8c.html#a20148eb9440b2248ad4e4b9c03da8c9e", null ],
+    [ "matrix_rotate", "math3d_8c.html#a8d39abc4c0df3937499b0f810b6c57d9", null ],
+    [ "matrix_scale", "math3d_8c.html#a86e3b10cd0af94ea2dd8a721bd4761a2", null ],
+    [ "matrix_translate", "math3d_8c.html#ae113d308db2fd39b277b76bbcd25e021", null ],
+    [ "matrix_transpose", "math3d_8c.html#afac1203febedb58222e41ac148d9c971", null ],
+    [ "matrix_unit", "math3d_8c.html#a8ff3fc3a08ad22445056c0a245a51ff5", null ],
+    [ "vector_apply", "math3d_8c.html#adb401ad8216c453cea8dce13c0031ca1", null ],
+    [ "vector_clamp", "math3d_8c.html#a4c4902dda4e2ad8b987ec96a504b036f", null ],
+    [ "vector_copy", "math3d_8c.html#a27257433ba8cdc1c883dc5f32a1bcbff", null ],
+    [ "vector_innerproduct", "math3d_8c.html#a6cabf446b5970b76ffc3ca97733b0918", null ],
+    [ "vector_multiply", "math3d_8c.html#a2ea7374975f432b95f0f525f1a3df7bf", null ],
+    [ "vector_normalize", "math3d_8c.html#a04d2ba94f90c43247caf6c1f1f875c8d", null ],
+    [ "vector_outerproduct", "math3d_8c.html#aae1d9083b27e5fd8d6c845f3e4ac37b5", null ]
+];

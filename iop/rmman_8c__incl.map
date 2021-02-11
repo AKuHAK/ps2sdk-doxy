@@ -1,0 +1,22 @@
+<map id="iop/system/rmman/src/rmman.c" name="iop/system/rmman/src/rmman.c">
+<area shape="rect" id="node1" title=" " alt="" coords="369,5,537,47"/>
+<area shape="rect" id="node2" href="$intrman_8h.html" title=" " alt="" coords="5,244,91,271"/>
+<area shape="rect" id="node6" href="$irx_8h.html" title=" " alt="" coords="427,319,477,345"/>
+<area shape="rect" id="node7" href="$loadcore_8h.html" title=" " alt="" coords="115,244,205,271"/>
+<area shape="rect" id="node8" href="$sifcmd_8h.html" title=" " alt="" coords="230,244,309,271"/>
+<area shape="rect" id="node9" href="$sifman_8h.html" title=" " alt="" coords="486,244,565,271"/>
+<area shape="rect" id="node10" href="$stdio_8h.html" title=" " alt="" coords="349,95,416,121"/>
+<area shape="rect" id="node12" href="$thbase_8h.html" title=" " alt="" coords="589,244,667,271"/>
+<area shape="rect" id="node13" href="$thevent_8h.html" title=" " alt="" coords="691,244,775,271"/>
+<area shape="rect" id="node14" href="$vblank_8h.html" title=" " alt="" coords="187,169,266,196"/>
+<area shape="rect" id="node15" href="$rsio2man_8h.html" title=" " alt="" coords="763,95,858,121"/>
+<area shape="rect" id="node19" href="$rmman_8h.html" title=" " alt="" coords="915,244,997,271"/>
+<area shape="rect" id="node3" href="$types_8h.html" title=" " alt="" coords="451,393,522,420"/>
+<area shape="rect" id="node4" title=" " alt="" coords="449,468,524,495"/>
+<area shape="rect" id="node5" href="$tamtypes_8h.html" title=" " alt="" coords="556,468,652,495"/>
+<area shape="rect" id="node11" title=" " alt="" coords="291,169,365,196"/>
+<area shape="rect" id="node16" href="$xsio2man_8h.html" title=" " alt="" coords="761,169,860,196"/>
+<area shape="rect" id="node17" href="$sio2man_8h.html" title=" " alt="" coords="800,244,891,271"/>
+<area shape="rect" id="node18" title=" " alt="" coords="819,319,890,345"/>
+<area shape="rect" id="node20" href="$librm-common_8h.html" title=" " alt="" coords="711,393,841,420"/>
+</map>

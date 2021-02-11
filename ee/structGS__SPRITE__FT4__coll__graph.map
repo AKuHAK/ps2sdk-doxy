@@ -1,0 +1,9 @@
+<map id="GS_SPRITE_FT4" name="GS_SPRITE_FT4">
+<area shape="rect" id="node1" title=" " alt="" coords="121,199,243,225"/>
+<area shape="rect" id="node2" href="$structGS__R__RGBAQ.html" title=" " alt="" coords="5,95,116,121"/>
+<area shape="rect" id="node3" href="$structGS__RGBAQ.html" title=" " alt="" coords="13,5,108,32"/>
+<area shape="rect" id="node4" href="$structGS__R__UV.html" title=" " alt="" coords="141,95,223,121"/>
+<area shape="rect" id="node5" href="$structGS__UV.html" title=" " alt="" coords="149,5,215,32"/>
+<area shape="rect" id="node6" href="$structGS__R__XYZ.html" title=" " alt="" coords="248,95,337,121"/>
+<area shape="rect" id="node7" href="$structGS__XYZ.html" title=" " alt="" coords="256,5,329,32"/>
+</map>

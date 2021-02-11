@@ -1,0 +1,6 @@
+<map id="siorCommsData" name="siorCommsData">
+<area shape="rect" id="node1" title=" " alt="" coords="115,95,242,121"/>
+<area shape="rect" id="node2" href="$structsiorInitArgs.html" title=" " alt="" coords="5,5,101,32"/>
+<area shape="rect" id="node3" href="$structsiorReadArgs.html" title=" " alt="" coords="125,5,232,32"/>
+<area shape="rect" id="node4" href="$structsiorWriteArgs.html" title=" " alt="" coords="256,5,365,32"/>
+</map>

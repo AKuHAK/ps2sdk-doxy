@@ -1,0 +1,14 @@
+<map id="iop/dev9/poweroff/src/irx_imports.h" name="iop/dev9/poweroff/src/irx_imports.h">
+<area shape="rect" id="node1" title=" " alt="" coords="195,5,357,47"/>
+<area shape="rect" id="node2" href="$irx_8h.html" title=" " alt="" coords="227,169,277,196"/>
+<area shape="rect" id="node6" href="$loadcore_8h.html" title=" " alt="" coords="5,95,96,121"/>
+<area shape="rect" id="node7" href="$sifcmd_8h.html" title=" " alt="" coords="121,95,199,121"/>
+<area shape="rect" id="node8" href="$stdio_8h.html" title=" " alt="" coords="379,95,445,121"/>
+<area shape="rect" id="node10" href="$sysclib_8h.html" title=" " alt="" coords="470,95,549,121"/>
+<area shape="rect" id="node12" href="$thbase_8h.html" title=" " alt="" coords="275,95,354,121"/>
+<area shape="rect" id="node3" href="$types_8h.html" title=" " alt="" coords="247,244,318,271"/>
+<area shape="rect" id="node4" title=" " alt="" coords="245,319,320,345"/>
+<area shape="rect" id="node5" href="$tamtypes_8h.html" title=" " alt="" coords="405,319,501,345"/>
+<area shape="rect" id="node9" title=" " alt="" coords="363,169,437,196"/>
+<area shape="rect" id="node11" href="$setjmp_8h.html" title=" " alt="" coords="450,244,529,271"/>
+</map>

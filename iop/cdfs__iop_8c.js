@@ -1,0 +1,45 @@
+var cdfs__iop_8c =
+[
+    [ "DirTocEntry", "structDirTocEntry.html", "structDirTocEntry" ],
+    [ "CacheInfoDir", "structCacheInfoDir.html", "structCacheInfoDir" ],
+    [ "RootDirTocHeader", "structRootDirTocHeader.html", "structRootDirTocHeader" ],
+    [ "ASCIIDate", "structASCIIDate.html", "structASCIIDate" ],
+    [ "CDVolDesc", "structCDVolDesc.html", "structCDVolDesc" ],
+    [ "CdSecS2048", "cdfs__iop_8c.html#a55050d360dc6d796f4fda7d434f712c1", null ],
+    [ "CdSecS2328", "cdfs__iop_8c.html#aec9adbdc9a0628b131e3a04541fad6ae", null ],
+    [ "CdSecS2340", "cdfs__iop_8c.html#ad7d72807c95ca6f5cde0193339e38487", null ],
+    [ "CdSpinMax", "cdfs__iop_8c.html#ae5e71536f4f7512d8355c707aeec912a", null ],
+    [ "CdSpinNom", "cdfs__iop_8c.html#a624387e82b7fdcc11fa67d781f2f0686", null ],
+    [ "CdSpinStm", "cdfs__iop_8c.html#a9ec2836d07a295d0c2a4ff0fa35409aa", null ],
+    [ "FALSE", "cdfs__iop_8c.html#aa93f0eb578d23995850d61f7d61c55c1", null ],
+    [ "MAX_DIR_CACHE_SECTORS", "cdfs__iop_8c.html#afad7f894a83223237dd57240bd89222d", null ],
+    [ "TRUE", "cdfs__iop_8c.html#aa8cecfc5c5c054d2875c03e77b7be15d", null ],
+    [ "Cache_getMode", "cdfs__iop_8c.html#ad9aba8edc2b4f5ce72d6a015d85772cd", [
+      [ "CACHE_START", "cdfs__iop_8c.html#ad9aba8edc2b4f5ce72d6a015d85772cda725218a9b9257808bbb207092a729562", null ],
+      [ "CACHE_NEXT", "cdfs__iop_8c.html#ad9aba8edc2b4f5ce72d6a015d85772cdaf1fe7be1a732b0311e76e4cd8cc69533", null ]
+    ] ],
+    [ "PathMatch", "cdfs__iop_8c.html#a9a51f6d2678382789c2e2fe55e278c91", [
+      [ "NOT_MATCH", "cdfs__iop_8c.html#a9a51f6d2678382789c2e2fe55e278c91a5f6cc7b0161a4933f17fc59020c18b67", null ],
+      [ "MATCH", "cdfs__iop_8c.html#a9a51f6d2678382789c2e2fe55e278c91a1155ee5305ebe5bb9407faa9d395ae93", null ],
+      [ "SUBDIR", "cdfs__iop_8c.html#a9a51f6d2678382789c2e2fe55e278c91ad6f9d0e3e4bc3a80c07becc0f702e569", null ]
+    ] ],
+    [ "cdfs_cacheDir", "cdfs__iop_8c.html#a2ad5c62559845943fe4eb1eacc1d5feb", null ],
+    [ "cdfs_findfile", "cdfs__iop_8c.html#a6805a399d113388dea7e3908e0ed27e7", null ],
+    [ "cdfs_finish", "cdfs__iop_8c.html#a6fc9769085fe55467af4a23b6d96363b", null ],
+    [ "cdfs_getDir", "cdfs__iop_8c.html#a0fde9695d3b34c13d1005a64cf03fe23", null ],
+    [ "cdfs_getVolumeDescriptor", "cdfs__iop_8c.html#a7a50f394c945b18eb846901bfb6935fd", null ],
+    [ "cdfs_prepare", "cdfs__iop_8c.html#a4e6fa8d7bb3f00914a9d9c1c060c67d9", null ],
+    [ "cdfs_readSect", "cdfs__iop_8c.html#a8bcc7dc20c5a79fccc3ddcb67a09f91d", null ],
+    [ "cdfs_start", "cdfs__iop_8c.html#ae3e5f6ba3dddc6435b56fc385997ee7d", null ],
+    [ "comparePath", "cdfs__iop_8c.html#a45715095b55c763d811925bfc5578a67", null ],
+    [ "compareTocEntry", "cdfs__iop_8c.html#a20deb30ad590f50aa556c0b5bedb51be", null ],
+    [ "copyToTocEntry", "cdfs__iop_8c.html#a389a34821e9d15bb69c74a92070a0951", null ],
+    [ "findPath", "cdfs__iop_8c.html#aabe3ff6e4fd58c78e25ac4cdee4718c8", null ],
+    [ "isValidDisc", "cdfs__iop_8c.html#a50577e2375e157633a8fd7b84996f55d", null ],
+    [ "splitPath", "cdfs__iop_8c.html#af58f7f57a918d5b181d5794d4192a803", null ],
+    [ "strcasecmp", "cdfs__iop_8c.html#abf3e665bdbd1326eb8dc8c1f7c811fac", null ],
+    [ "cacheInfoDir", "cdfs__iop_8c.html#a63f52919b287c0955e068ee3207ac8d9", null ],
+    [ "cdReadMode", "cdfs__iop_8c.html#a8148074498582b2558283546527dfe23", null ],
+    [ "cdVolDesc", "cdfs__iop_8c.html#affff237c1304ffc38acb90f127f72ce5", null ],
+    [ "dvdvBuffer", "cdfs__iop_8c.html#a0448301a68b356d73e9485a4c87cd57e", null ]
+];

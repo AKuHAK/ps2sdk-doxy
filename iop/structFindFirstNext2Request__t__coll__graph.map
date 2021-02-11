@@ -1,0 +1,5 @@
+<map id="FindFirstNext2Request_t" name="FindFirstNext2Request_t">
+<area shape="rect" id="node1" title=" " alt="" coords="57,95,236,121"/>
+<area shape="rect" id="node2" href="$structSMBHeader__t.html" title=" " alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node3" href="$structSMBTransactionRequest__t.html" title=" " alt="" coords="139,5,327,32"/>
+</map>

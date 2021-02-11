@@ -1,0 +1,25 @@
+var structOhciRegs =
+[
+    [ "HcBulkCurrentEd", "structOhciRegs.html#ad5316319e4125ec5543c29194203cdf2", null ],
+    [ "HcBulkHeadEd", "structOhciRegs.html#a40f31cad39f7a1086ed90cf1cdf81ed5", null ],
+    [ "HcCommandStatus", "structOhciRegs.html#af87b6982c440714c04edb26b62b14793", null ],
+    [ "HcControl", "structOhciRegs.html#a53239557b3b2e43b5f3be859152ec2e5", null ],
+    [ "HcControlCurrentEd", "structOhciRegs.html#aa3de00db146319fe0576b46312354eff", null ],
+    [ "HcControlHeadEd", "structOhciRegs.html#a23d9ead68d37f1c806c486e2d567f278", null ],
+    [ "HcDoneHead", "structOhciRegs.html#abb21146160c788b4698f9d4fea7a5379", null ],
+    [ "HcFmInterval", "structOhciRegs.html#ad8c7277c0bc56fc37fac00efa6abb681", null ],
+    [ "HcFmNumber", "structOhciRegs.html#afc2fcfb10a85f97e6fc718935d4a9b5d", null ],
+    [ "HcFmRemaining", "structOhciRegs.html#a8194b59b73b42852d8bb920844186020", null ],
+    [ "HcHCCA", "structOhciRegs.html#a14e0a0785c811a8892147df12eb2ad94", null ],
+    [ "HcInterruptDisable", "structOhciRegs.html#a65ce60b68bd9a8f0ab2a543fe3e3a9be", null ],
+    [ "HcInterruptEnable", "structOhciRegs.html#a41c01f6931e3c4ebf89c49ca11432910", null ],
+    [ "HcInterruptStatus", "structOhciRegs.html#af066b8142e4455ac6b0ce31214b7f100", null ],
+    [ "HcLsThreshold", "structOhciRegs.html#ad3db48b1dd7b8a6b91464a13005db83e", null ],
+    [ "HcPeriodCurrentEd", "structOhciRegs.html#ae3e69a65d7071a081f27e38bbf1af948", null ],
+    [ "HcPeriodicStart", "structOhciRegs.html#a0fa5cc4e6f26b7c87bcfd9ea428e6924", null ],
+    [ "HcRevision", "structOhciRegs.html#a0fc9dece11b586fffc6491a16198f78a", null ],
+    [ "HcRhDescriptorA", "structOhciRegs.html#ad7e263ce95433dfb4152b1308e322bd5", null ],
+    [ "HcRhDescriptorB", "structOhciRegs.html#a2074ed6bfd8890c5971611ba103cc881", null ],
+    [ "HcRhPortStatus", "structOhciRegs.html#a2ff296128c86208cd5b59ad3c3d7bdf2", null ],
+    [ "HcRhStatus", "structOhciRegs.html#aa990c3b637ed2703ac1381d5ebc15cef", null ]
+];
